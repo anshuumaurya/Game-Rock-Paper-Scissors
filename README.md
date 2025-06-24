@@ -11,7 +11,7 @@ A simple yet stylish Rock Paper Scissors game built using **HTML, CSS, and JavaS
 
 > This project is ideal for beginners learning DOM manipulation and basic game logic in JavaScript.
 
-🔗 Live Demo: \[your-github-pages-link-here]
+🔗 Live Demo: https://anshuumaurya.github.io/Game-Rock-Paper-Scissors/
 
 Tech Stack
 
